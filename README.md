@@ -38,28 +38,28 @@ Please note that the parameter setting process can be replaced by any other meth
 
 Clustering of SD1:
 
-<img src="/demo/demo_SD1.gif" alt="demo_SD1" style="zoom:50%;" />
+<img src="/demo/demo_SD1.gif" alt="demo_SD1"/>
 
 Clustering of SD2:
 
-<img src="demo\demo_SD2.gif" alt="demo_SD2" style="zoom:50%;" />
+<img src="/demo/demo_SD2.gif" alt="demo_SD2"/>
 
 Clustering of SD3:
 
-<img src="demo\demo_SD3.gif" alt="demo_SD3" style="zoom:50%;" />
+<img src="/demo/demo_SD3.gif" alt="demo_SD3"/>
 
 Clustering of SD4:
 
-<img src="demo\demo_SD4.gif" alt="demo_SD4" style="zoom:50%;" />
+<img src="/demo/demo_SD4.gif" alt="demo_SD4"/>
 
 Clustering of SD5:
 
-<img src="demo\demo_SD5.gif" alt="demo_SD5" style="zoom:50%;" />
+<img src="/demo/demo_SD5.gif" alt="demo_SD5"/>
 
 Clustering of SD6:
 
-<img src="demo\demo_SD6.gif" alt="demo_SD6" style="zoom:50%;" />
+<img src="/demo/demo_SD6.gif" alt="demo_SD6"/>
 
 Clustering of SD7:
 
-<img src="demo\demo_SD7.gif" alt="demo_SD7" style="zoom:50%;" />
+<img src="/demo/demo_SD7.gif" alt="demo_SD7"/>
