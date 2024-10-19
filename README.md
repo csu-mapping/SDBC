@@ -38,7 +38,7 @@ Please note that the parameter setting process can be replaced by any other meth
 
 Clustering of SD1:
 
-<img src="demo\demo_SD1.gif" alt="demo_SD1" style="zoom:50%;" />
+<img src="/demo/demo_SD1.gif" alt="demo_SD1" style="zoom:50%;" />
 
 Clustering of SD2:
 
