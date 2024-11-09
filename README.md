@@ -56,28 +56,28 @@ You can also find the source codes of flowSDBC clustering algorithm implemented 
 
 Clustering of SD1:
 
-<img src="SDBC/Demo/demo_SD1.gif" alt="demo_SD1"/>
+<img src="/SDBC/Demo/demo_SD1.gif" alt="demo_SD1"/>
 
 Clustering of SD2:
 
-<img src="SDBC/Demo/demo_SD2.gif" alt="demo_SD2"/>
+<img src="/SDBC/Demo/demo_SD2.gif" alt="demo_SD2"/>
 
 Clustering of SD3:
 
-<img src="SDBC/Demo/demo_SD3.gif" alt="demo_SD3"/>
+<img src="/SDBC/Demo/demo_SD3.gif" alt="demo_SD3"/>
 
 Clustering of SD4:
 
-<img src="SDBC/Demo/demo_SD4.gif" alt="demo_SD4"/>
+<img src="/SDBC/Demo/demo_SD4.gif" alt="demo_SD4"/>
 
 Clustering of SD5:
 
-<img src="SDBC/Demo/demo_SD5.gif" alt="demo_SD5"/>
+<img src="/SDBC/Demo/demo_SD5.gif" alt="demo_SD5"/>
 
 Clustering of SD6:
 
-<img src="SDBC/Demo/demo_SD6.gif" alt="demo_SD6"/>
+<img src="/SDBC/Demo/demo_SD6.gif" alt="demo_SD6"/>
 
 Clustering of SD7:
 
-<img src="SDBC/Demo/demo_SD7.gif" alt="demo_SD7"/>
+<img src="/SDBC/Demo/demo_SD7.gif" alt="demo_SD7"/>
